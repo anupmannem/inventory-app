@@ -10,4 +10,4 @@ keep track of your items...
 * Migrate the database: `yarn run migrate` or `npm run migrate`
 * db admin @localhost:8080
 
-reference - (coding garden)[https://www.youtube.com/playlist?list=PLM_i0obccy3uJ876-W_BKBzjd9L2ZGB4B]
+reference - [coding garden](https://www.youtube.com/playlist?list=PLM_i0obccy3uJ876-W_BKBzjd9L2ZGB4B)
