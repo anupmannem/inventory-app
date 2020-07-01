@@ -4,12 +4,15 @@
   "main": "index.js",
   "scripts": {
     "migrate": "knex migrate:latest",
-    "rollback": "knex migrate:rollback"
+    "rollback": "knex migrate:rollback",
+    "seed": "knex seed:run"
   },
   "license": "MIT",
   "dependencies": {
+    "bcrypt": "^5.0.0",
     "dotenv": "^8.2.0",
     "knex": "^0.21.1",
+    "papaparse": "^5.2.0",
     "pg": "^8.2.1"
   },
   "devDependencies": {
